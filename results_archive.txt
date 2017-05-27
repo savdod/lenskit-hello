@@ -1,0 +1,23 @@
+Recommended artists for user 100:
+	8388 (Viking Quest): 33935,727275
+	6373 (Tyler Adam): 31015,380972
+	8308 (Johnny Hallyday): 16059,213374
+	792 (Thal?a): 13524,877838
+	8366 (Holdcut): 10240,705008
+	9665 (Flotation Toy Warning): 9066,475697
+	8367 (EMF): 8763,705008
+	14185 (Brooke Fraser): 8019,235195
+	12356 (Hilary Chow): 6850,498728
+	18205 (Pig Destroyer): 6541,781021
+	
+	Recommended artists for user 72:
+	6373 (Tyler Adam): 29943,544933
+	18121 (Rytmus): 22508,469955
+	8308 (Johnny Hallyday): 15623,465972
+	8366 (Holdcut): 9784,747119
+	18122 (Kontrafakt): 9772,469955
+	15347 (Shannon Noll): 8894,240357
+	8281 (RoBERT): 8464,067247
+	8367 (EMF): 8307,747119
+	6696 (Mara Maravilha): 7327,666249
+	10871 (D-Bo): 7203,700859

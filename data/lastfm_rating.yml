@@ -1,0 +1,5 @@
+ratings:
+  file: user_artists.csv
+  format: csv
+  header: true
+  entity_type: rating
