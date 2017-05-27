@@ -16,12 +16,3 @@ Java код здесь: org.grouplens.lenskit.hello.HelloLenskit. Есть ко�
 	C:\LensKit\lenskit-hello> .\gradlew.bat build
 	C:\LensKit\lenskit-hello> .\build\install\lenskit-hello\bin\lenskit-hello.bat <userid>
     
-    
-[LensKit]: http://lenskit.org
-[gradle]: http://gradle.org
-[mailing list]: https://wwws.cs.umn.edu/mm-cs/listinfo/lenskit
-<<<<<<< HEAD
-[LensKitRS]: http://twitter.com/LensKitRS
-=======
-[LensKitRS]: http://twitter.com/LensKitRS
->>>>>>> bee8df65a2a195bd97724af4766e6111f3c7b706
