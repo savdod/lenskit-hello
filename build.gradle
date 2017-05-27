@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // http://lenskit.org/documentation/evaluator/upgrading/
 
 /* This file may be freely modified, used, and redistributed without restriction. */
@@ -150,3 +151,28 @@ task cleanData {
         delete 'data'
     }
 }
+=======
+apply plugin: 'java'
+apply plugin: 'application'
+
+sourceCompatibility = '1.7'
+
+mainClassName = 'org.grouplens.lenskit.hello.HelloLenskit'
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'https://oss.sonatype.org/content/repositories/snapshots/'
+    }
+}
+dependencies {
+    compile 'org.lenskit:lenskit-all:3.0-M2'
+    runtime 'ch.qos.logback:logback-classic:1.1.2'
+}
+
+startScripts {
+    defaultJvmOpts = ['-Xmx1g']
+}
+
+build.dependsOn installDist
+>>>>>>> bee8df65a2a195bd97724af4766e6111f3c7b706

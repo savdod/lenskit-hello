@@ -20,4 +20,8 @@ Java код здесь: org.grouplens.lenskit.hello.HelloLenskit. Есть ко�
 [LensKit]: http://lenskit.org
 [gradle]: http://gradle.org
 [mailing list]: https://wwws.cs.umn.edu/mm-cs/listinfo/lenskit
+<<<<<<< HEAD
 [LensKitRS]: http://twitter.com/LensKitRS
+=======
+[LensKitRS]: http://twitter.com/LensKitRS
+>>>>>>> bee8df65a2a195bd97724af4766e6111f3c7b706
